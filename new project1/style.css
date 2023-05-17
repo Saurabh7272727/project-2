@@ -1,0 +1,262 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+    width: 1845px;
+    height: 90px;
+    color: rgb(17, 1, 1);
+   position:fixed;
+   z-index: 2;
+   background-color: rgb(38, 182, 93);
+
+}
+
+li{
+    display: inline-block;
+    padding: 30px;
+    font-size: 30px;
+}
+
+.button{
+    width: 150px;
+    height: 40px;
+    background-color: rgb(24, 45, 168);
+    color: black;
+    font-size: 20px;
+    font-style: normal;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.button:hover{
+    background-color: rgb(7, 141, 74);
+}
+
+.search{
+    width: 300px;
+    height: 30px;
+    border-radius: 20px;
+    font-size: large;
+    padding: 10px;
+}
+
+.main{
+    width: 96%;
+    height: 600px;
+background-image: url(op.jpg);
+
+
+}
+
+.pic{
+    width:35%;
+    height: 550px;
+    
+    display: inline-block;
+    position: relative;
+   top: 100px;
+   
+}
+
+.artical{
+    width: 40%;
+    height: 550px;
+    
+    display: inline-block;
+    position: relative;
+  top: 80px;
+    font-size: large;
+}
+
+.about{
+    width: 15%;
+    height: 300px;
+  
+    display: inline-block;
+    position: relative;
+  
+}
+
+.price{
+    width: 170px;
+    height: 60px;
+    background-color: aquamarine;
+    color: black;
+    font-size: 30px;
+    position: relative;
+    top: 120px;
+    left: 170px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.price:hover{
+    background-color:azure;
+    color: blue;
+}
+
+.about{
+   position: relative;
+   left: 60px;
+   bottom: 100px;
+}
+/*new product2*/
+.op{
+    width: 96%;
+    height: 600px;
+    background-image: url(op.jpg);
+}
+
+
+.op1{
+    width: 35%;
+    height: 300px;
+    display: inline-block;
+}
+
+.op2{
+    width: 44%;
+    height: 650px;
+   
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+    font-size: larger;
+}
+
+
+.op3{
+    width: 18%;
+    height: 650px;
+ 
+    display: inline-block;
+    position: relative;
+    bottom: 190px;
+    font-size: larger;
+    left: 56px;
+ 
+}
+
+.buttonee{
+    width: 200px;
+    height: 100px;
+ 
+    position: relative;
+    left: 820px;
+    bottom: 425px;
+}
+
+.buttonee1{
+    width: 170px;
+    height: 60px;
+    background-color: rgb(10, 221, 221);
+    font-size: 30px;
+    border-radius: 20px;
+}
+
+.buttonee1:hover{
+    background-color: aliceblue;
+    cursor: pointer;
+    color: blue;
+}
+
+/*footer*/
+
+.footer1{
+    width:96%;
+    height: 250px;
+    background-color: rgb(200, 233, 226);
+}
+
+.heard{
+    position: relative;
+    top: 70px;
+    left: 40px;
+}
+
+.contact5{
+    position: relative;
+    left: 800px;
+    font-size: 30px;
+
+}
+
+.arrow{
+    position: relative;
+    left: 1700px;
+    font-size: 30px;  
+    bottom: 38px;
+    color: yellow;
+}
+
+.footer2{
+    width:96%;
+    height: 250px;
+    background-color: rgb(11, 12, 12);
+    color: aliceblue;
+}
+
+.a{
+    width: 18%;
+    height: 130px;
+ 
+    display: inline-block;
+    position: relative;
+    bottom:80px;
+    font-size: 30px;
+
+}
+
+.london{
+    width: 30%;
+    height: 130px;
+   
+    display: inline-block;
+}
+
+.aires{
+    width: 18%;
+    height: 130px;
+  
+    display: inline-block;
+    position: relative;
+    bottom: 50px;
+}
+
+.office{
+    width: 30%;
+    height: 130px;
+  font-size: 20px;
+    display: inline-block;
+    position: relative;
+    bottom: 100px;
+}
+
+.my{
+    width: 500px;
+    height: 50px;
+  
+    position: relative;
+    left: 1200px;
+    bottom: 120px;
+    padding:20px;
+    
+
+}
+
+.my0:hover{
+    color: yellow;
+}
+
+.my1{
+    position: relative;
+    left: 80px;
+    bottom: 18px;
+}
+
+.my1:hover{
+    color: yellow;
+}

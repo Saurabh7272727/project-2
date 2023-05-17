@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.header{
+    width: 1846px;
+    height: 80px;
+   
+   
+}
+
+.unk{
+    width: 300px;
+    height: 600px;
+  
+    display: inline-block;
+    position: relative;
+  bottom: 408px;
+   margin:8px;
+  
+}
+
+.main{
+    width: 1000px;
+    height: 800px;
+   
+    display: inline-block;
+}
+
+.unk2{
+    width: 500px;
+    height: 600px;
+   
+    display: inline-block;
+    position: relative;
+    bottom: 40px;
+}
+
+li{
+    display: inline-block;
+    padding: 30px;
+    font-size:26px;
+
+}
+
+.navbar{
+    position: relative;
+   left: 330px;
+}
+
+.search{
+    width: 300px;
+    height:30px;
+    border-radius: 20px;
+ font-size: medium;
+}
+
+.search:hover{
+    width: 500px;
+    height: 40px;
+   
+    cursor: pointer;
+}
+
+body{
+background-color: gray;
+}
+
+.button{
+    width: 120px;
+    height: 40px;
+background-color: cadetblue;
+    color: black;
+    cursor: pointer;
+    border-radius: 20px;
+    font-weight: 2px;
+    font-size: 18px;
+}
+
+.button:hover{
+    width: 90px;
+    height: 40px;
+    background-color: green;
+    color: white;
+
+}
+
+.top{
+    width: 800px;
+    height: 500px;
+    
+ position: relative;
+left: 50px;
+top: 100px;
+}
+
+.red{
+    color: orangered;
+}
+
+.as{
+    width: 350px;
+    height: 450px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+
+.login{
+    width: 270px;
+    height: 60px;
+   background-color: orange;
+    border-radius: 30px;
+    font-size: 20px;
+    position: relative;
+    left:30px;
+}
+
+.logk{
+    width: 300px;
+    height: 30px;
+    position: relative;
+    left: 15px;
+}
